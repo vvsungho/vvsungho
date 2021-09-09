@@ -22,8 +22,10 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
+<div align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvsungho)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvsungho&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vvsungho.github.io/)](https://vvsungho.github.io/) 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vvsungho/)](https://www.linkedin.com/in/vvsungho/)  -->
