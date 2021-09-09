@@ -22,10 +22,8 @@
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 
-<div align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvsungho)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvsungho&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>
 
 <div align=center>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vvsungho.github.io/)](https://vvsungho.github.io/) 
