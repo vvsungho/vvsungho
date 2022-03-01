@@ -1,7 +1,7 @@
 <h3 align="center">
   👋 Hi there 👋
 </h3>
-<p align="center">
+<!-- <p align="center">
   I'm Sungho Yoon, a growing developer. 🌱 <br>
   Nice to see you. ✨
 </p>
@@ -20,7 +20,7 @@
   <br>
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
-</p>
+</p> -->
 
 <div align="center">
   
