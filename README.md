@@ -1,4 +1,4 @@
-<h3 align="center">
+<!-- <h3 align="center">
   👋 Hi there 👋
 </h3>
 
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
