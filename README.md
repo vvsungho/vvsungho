@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="width: 300">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif">
 </p>
 
