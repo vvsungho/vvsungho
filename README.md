@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" style="width: 100px">
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" style="width: 50px">
   <br>
 </p>
 
