@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif">
+  <--
   <samp>
     I am Sungho | A Software engineer
     <br><br>
