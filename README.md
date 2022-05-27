@@ -11,16 +11,17 @@
 #### Top Repositories
 
 <div>
-  <a href="https://github.com/vvsungho/java-lotto-pro" style="padding: 0 15px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=java-lotto-pro" />  
+  <a href="https://github.com/vvsungho/java-lotto-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=java-lotto-pro" />  
   </a>
-  <a href="https://github.com/vvsungho/jwp-qna" style="padding: 0 15px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=jwp-qna" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vvsungho/jwp-qna">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=jwp-qna" />
   </a>
 </div>
 <br>
 <div>
-  <a href="https://github.com/vvsungho/atdd-subway-admin" style="padding: 0 15px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=atdd-subway-admin" />
+  <a href="https://github.com/vvsungho/atdd-subway-admin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=atdd-subway-admin" />
   </a>
 </div>
