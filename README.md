@@ -4,7 +4,7 @@
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100">
   <br><br>
   <samp>
-    I am Sungho, A Web Developer
+    I am Sungho | A Web Developer
     <br><br>
     🔥 Clean Code, Shared Knowledge, Challenge Oriented 🔥
     <br><br>
