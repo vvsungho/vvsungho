@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200">
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100">
   <br><br>
   <samp>
     I am Sungho, A Web Developer
