@@ -1,5 +1,15 @@
+### Hi there 👋
+
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200">
+  <br><br>
+  <samp>
+    I am Sungho, A Web Developer
+    <br><br>
+    🔥 Clean Code, Shared Knowledge, Challenge Oriented 🔥
+    <br><br>
+    Contact me on <a href="mailto:dsds550@gmail.com">Send an Email</a>
+  </samp>
 </p>
 
  <br>
@@ -14,7 +24,7 @@
   <a href="https://github.com/vvsungho/java-lotto-pro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=java-lotto-pro" />  
   </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vvsungho/jwp-qna">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=jwp-qna" />
   </a>
@@ -24,7 +34,7 @@
   <a href="https://github.com/vvsungho/atdd-subway-admin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=atdd-subway-admin" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vvsungho/infra-subway-deploy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvsungho&repo=infra-subway-deploy" />
   </a>
