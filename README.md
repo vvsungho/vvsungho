@@ -8,7 +8,7 @@
     <br><br>
     🔥 Clean Code, Shared Knowledge, Challenge Oriented 🔥
     <br><br>
-    Contact me on <a href="mailto:dsds550@gmail.com">Send an Email</a>
+    Contact me on <a href="mailto:dsds550@gmail.com">Send an Email </a>
   </samp>
 </p>
 
