@@ -19,3 +19,10 @@
 - REST API란? REST API 명령어(CRUD) 아시는것 설명해주세요.
 - 자바의 장점과 단점을 설명해주세요
 - 세션과 쿠키의 차이는?
+- Java 인터페이스
+- SOLID
+- Java 접근제어자
+- Spring Framework만으ㅢ 장점
+- 디자인패턴
+- IOC
+- 리액티브 프로그래밍
