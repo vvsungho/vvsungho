@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100">
   <br><br>
   <samp>
@@ -10,7 +10,7 @@
     <br><br>
     Contact me on <a href="mailto:dsds550@gmail.com">Send an Email </a>
   </samp>
-</p>
+</p> -->
 
  <br>
 <!--
